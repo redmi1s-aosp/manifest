@@ -3,7 +3,7 @@ The Android Open Source Project Lollipop 5.0
 
 To initialize your local repository using the AOSP trees, use a command like this:
 
-    repo init -u git://github.com/F-AOSP/manifest.git -b aosp-5.0
+    repo init -u git://github.com/redmi1s-aosp/manifest.git -b aosp-5.0
 
 Then to sync up:
 
