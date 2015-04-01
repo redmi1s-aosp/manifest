@@ -463,7 +463,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project name="F-AOSP/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="aosp-5.1" />
 
-  <project name="F-AOSP/manifest" path="manifest" remote="github" revision="aosp-5.1" />
+  <project name="redmi1s-aosp/manifest" path="manifest" remote="github" revision="aosp-5.1" />
 
   <!-- Device Specific -->
   <project name="redmi1s-aosp/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github" revision="aosp-5.1" />
