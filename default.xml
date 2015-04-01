@@ -440,7 +440,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk,tradefed" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs" />
-  <project name="F-AOSP/platform_system_core" groups="pdk" path="system/core" remote="github" revision="aosp-5.1" />
+  <project name="redmi1s-aosp/platform_system_core" groups="pdk" path="system/core" remote="github" revision="aosp-5.1" />
   <project name="F-AOSP/platform_system_extras" groups="pdk" path="system/extras" remote="github" revision="aosp-5.1" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project name="CyanogenMod/android_system_media" path="system/media" groups="pdk" remote="github" revision="staging/cm-12.1" />
