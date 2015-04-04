@@ -467,7 +467,7 @@
 
   <!-- Device Specific -->
   <project name="redmi1s-aosp/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github" revision="aosp-5.1" />
-  <project name="redmi1s-aosp/android_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="github" revision="cm-12.0" />
+  <project name="redmi1s-aosp/android_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8226" remote="github" revision="cm-12.1-caf-8226" />
